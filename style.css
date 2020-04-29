@@ -1,0 +1,34 @@
+
+.container{
+widows: 840px;
+background-color: lightyellow;
+}
+
+.row{
+    display: flex;
+
+
+}
+.row>*}
+.one-column{
+    width: 140px;
+    padding: 0 1rem;
+
+
+}
+.two-columns{
+width: 280px;
+}
+.three-columns{
+    width: 420px;
+
+}
+.four-columns{
+width: 560px;
+}
+.five-columns{
+width: 700px;
+}
+.six-columns{
+    width: 840px;
+}
